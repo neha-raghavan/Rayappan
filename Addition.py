@@ -1,4 +1,3 @@
-a=10
-b=20
-c=a+b
-print(c)
+def Add(a,b):
+   return(a+b)
+print(Add(20,30))
